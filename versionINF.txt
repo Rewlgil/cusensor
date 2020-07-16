@@ -1,4 +1,4 @@
 {
   version : 1.00,
-  code_url : "https://raw.githubusercontent.com/Rewlgil/cusensor/master/CUsense_V2.1.ino.esp32.bin"
+  code_url : "https://raw.githubusercontent.com/Rewlgil/cusensor/master/CUsense_V1.00.ino.esp32.bin"
 }
