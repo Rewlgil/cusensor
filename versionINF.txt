@@ -1,4 +1,4 @@
 {
-  version : 1.00,
+  version : 1.01,
   code_url : "http://cusensor.net/ota/pm_5g/ota.txt"
 }
