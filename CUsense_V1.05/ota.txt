@@ -1,0 +1,4 @@
+{
+  version : 1.05,
+  code_url : "http://cusensor.net/ota/pm_5g/CUsense_V1.05.ino.esp32.bin"
+}
